@@ -1,0 +1,9 @@
+.nav{
+    background-color: #b0abab; /* Color de fondo de la barra de navegación */
+    width: 100%;
+    display: flex;
+    
+}
+.buton{
+    margin: 10px;
+}

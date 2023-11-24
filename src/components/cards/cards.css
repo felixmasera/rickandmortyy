@@ -1,0 +1,8 @@
+.cards{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    position: relative;
+    top: 8%;
+    border: 5px solid rgb(213, 145, 145) none;
+}
