@@ -1,0 +1,11 @@
+.cardHome {
+    width: 300px;
+    background-color:rgba(1, 53, 2, 0.488) ;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(253, 252, 252, 0.1);
+    overflow: hidden;
+    margin: 10px;
+    
+    
+    
+}
